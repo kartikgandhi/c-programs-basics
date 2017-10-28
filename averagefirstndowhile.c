@@ -10,9 +10,6 @@ sum=sum+i;
 i++;
 }
 while(i<=a);
-
-
-
 avg=sum/a;
 printf("the average of first %d",a);
 printf(" numbers is %d",avg);
