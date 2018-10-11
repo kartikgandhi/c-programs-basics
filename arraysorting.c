@@ -22,9 +22,12 @@ main()
         }
     }
     }
+    printf("\n Sorted Array is:" )
     for(i=0;i<m;i++)
     {
-        printf(" \n enter the value of n[%d] : %d",i,n[i]);
+      
+        printf("%d",n[i]);
 
     }
+    return 0; #As by default the return type of main is int.
 }
