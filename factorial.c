@@ -8,5 +8,5 @@ void main()
     {
         fact=fact*i;
     }
-    printf("%d",fact);
+    printf("%d factorial is %d",n, fact);
 }
